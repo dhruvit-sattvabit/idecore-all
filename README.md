@@ -1,0 +1,1 @@
+# idecore-all
